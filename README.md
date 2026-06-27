@@ -12,7 +12,7 @@ A modern, secure investment portfolio management platform built with React, Type
 
 ```bash
 # Clone the repo
-git clone https://github.com/Nasty53/SecureStockFinance.git
+git clone https://Nasty53/SecureStockFinance.com
 cd SecureStockFinance
 
 # Copy environment variables
